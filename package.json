@@ -1,0 +1,14 @@
+{
+  "name": "codebreakerdojo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breaker.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
+}

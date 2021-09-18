@@ -1,5 +1,5 @@
 const breaker = require('./breaker');
-describe('', ()=>{
+describe('Todos cumplen o incumplen', ()=>{
     test('Todos coinciden XXXX', ()=>{
         var result = breaker.breaker(1234);
         expect(result).toBe("XXXX");
